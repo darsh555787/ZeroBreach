@@ -26,10 +26,19 @@ The challenge uses JSON Web Token (JWT) authentication, with permissions and rol
 1. **Inspect the guest token:** Capture the guest JWT provided during normal interaction with the service.
 2. **Modify token claims:** Change the payload to include the privileged role or claim required to access the inner sanctum.
 3. **Test algorithm validation:** Determine whether the service accepts an unsigned token with `alg: "none"` or has a symmetric/asymmetric algorithm-confusion flaw, then craft the token accordingly.
-4. **Submit and retrieve the flag:** Send the crafted token to the remote challenge instance at `labs.cyberspacevr.in:30416` to attempt access to the inner sanctum and retrieve the flag.
+4. **Submit and retrieve the flag:** Send the crafted token to the remote challenge instance to access the inner sanctum and retrieve the flag. The challenge has appeared on multiple instance ports (`30416` and `30153`).
 
 ## 4. Flag
 
+The flag differs between the provided instances:
+
+| Instance | Flag |
+|---|---|
+| `labs.cyberspacevr.in:30416` | `ZeroCTF{no_one_wears_a_false_face_G9MBQH}` |
+| `labs.cyberspacevr.in:30153` | `ZeroCTF{no_one_wears_a_false_face_SFKJCB}` |
+
+For the `30153` instance:
+
 ```text
-ZeroCTF{no_one_wears_a_false_face_G9MBQH}
+ZeroCTF{no_one_wears_a_false_face_SFKJCB}
 ```
