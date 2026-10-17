@@ -1,4 +1,4 @@
-# 🛡️ SPACECTF 2026 - Official Writeups
+# 🛡️ ZEROCTF 2026 - Official Writeups
 
 ## 🏆 Team Banner
 
@@ -8,7 +8,7 @@
 
 ## 📖 Overview
 
-Welcome to the official **SPACECTF 2026** writeup repository for **ZeroCTF / SpaceCTF 2026**. This collection features comprehensive, hand-crafted writeups and exploit scripts, organized by challenge domain: **Crypto, Web, Reverse Engineering (Rev), Pwn, Blockchain, Forensics, Misc, and Mobile**.
+Welcome to the official **ZEROCTF 2026** writeup repository. This collection features comprehensive, hand-crafted writeups and exploit scripts for **ZEROCTF 2026**, organized by challenge domain: **Crypto, Web, Reverse Engineering (Rev), Pwn, Blockchain, Forensics, Misc, and Mobile**.
 
 ## 🧭 Complete Writeup Index
 
