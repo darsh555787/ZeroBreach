@@ -6,7 +6,7 @@
 
 | Team | Rank | Author / Maintainer |
 |---|---:|---|
-| **FL4GHUN73RS** | **10** | **LUC1F3R7** |
+| **FL4GHUN73RS** | **10** | **LUC1F3R7**, **hackerdx08** |
 
 ## 📖 Overview
 
