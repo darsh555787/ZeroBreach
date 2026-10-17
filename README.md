@@ -1,4 +1,6 @@
-# 🛡️ ZEROCTF 2026 - Official Writeups
+# 🛡️ ZeroBreach 2.0 CTF 2026
+
+![ZeroBreach 2.0 CTF 2026 banner](https://d8it4huxumps7.cloudfront.net/uploads/images/opportunity/banner/6ad06ae523f3e_zerobreach-20-ctf-2026.png?d=1920x557)
 
 ## 🏆 Team Banner
 
